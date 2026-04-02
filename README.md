@@ -2,7 +2,7 @@
 
 Este repositório contém exercícios e projetos básicos desenvolvidos na aula de **Portugol Studio**, com foco em **lógica de programação**.
 
-**Local de ensino:** Escola/Curso [Nome da Escola]  
+**Local de ensino:** Escola/Curso [Etec Camargo Aranha]  
 **Data:** 04/03/2026
 
 ## Conteúdo
